@@ -10,6 +10,9 @@ skill蒸馏方面关于AI思考：给出问题概述，检查缺失部分，提�
 1.特别是作为一个面对全新领域的学生，如何利用AI提高效率，快速抓住重点，对问题进行切割与圈定，把一个一个node抛给AI完成。
 2.重点在于如何把问题定义清楚，让AI看懂，抓住重点，简要描述
 
+通过网盘分享的文件：ros小车爬坡.mp4
+链接: https://pan.baidu.com/s/1YlyripiCexewzPEAf6GpXw 提取码: ujyq
+
 
 # 轮腿机器人平衡控制器（wheel_leg_controller）
 
@@ -134,7 +137,8 @@ right_wheel→ ctrl[4]（右轮）        left_wheel → ctrl[5]（左轮）
 | 带速度前进 | 【待填】m/s，走了【待填】m 不摔 |
 | 上坡（自制 3° 缓坡） | 【待填：能/不能】 |
 
-**录屏**：【待填：上传网盘后把链接和提取码写在这里】
+**录屏**：通过网盘分享的文件：ros小车爬坡.mp4
+链接: https://pan.baidu.com/s/1YlyripiCexewzPEAf6GpXw 提取码: ujyq
 
 > 测法：终端 B 每 2000 步（= 4 s 仿真时间）打印一行
 > `steps=... pitch=...° L0_R=... L0_L=... v_set=... wheel_T(R/L)=...`
